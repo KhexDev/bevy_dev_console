@@ -67,4 +67,4 @@
 
 | bevy   | bevy_dev_console |
 | ------ | ---------------- |
-| 0.12.* | git (master)     |
+| 0.13.* | git (master)     |
